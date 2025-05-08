@@ -1,0 +1,5 @@
+name: TypingGame
+app_id: da_nYYILtXUaYwn
+owner: sopdevv
+package: '.'
+kind: wasmer.io/App.v0
