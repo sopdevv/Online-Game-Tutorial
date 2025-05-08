@@ -1,0 +1,5 @@
+name: multiplayerTutorial
+app_id: da_Ra7IetdUwBjK
+owner: sopdevv
+package: '.'
+kind: wasmer.io/App.v0

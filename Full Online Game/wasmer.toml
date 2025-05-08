@@ -1,0 +1,9 @@
+[package]
+name = "OnlineGame"
+version = "1.0.0"
+
+[dependencies]
+"wasmer/static-web-server" = "^1.0.2"
+
+[fs]
+public = "dist"
